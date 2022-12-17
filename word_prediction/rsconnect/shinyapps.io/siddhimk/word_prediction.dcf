@@ -1,0 +1,13 @@
+name: word_prediction
+title: word_prediction
+username:
+account: siddhimk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7910188
+bundleId: 6648796
+url: https://siddhimk.shinyapps.io/word_prediction/
+when: 1671300886.30445
+lastSyncTime: 1671300886.30446
+asMultiple: FALSE
+asStatic: FALSE
